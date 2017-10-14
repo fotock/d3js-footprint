@@ -1,4 +1,6 @@
-China Map with D3.js and GeoJSON
+<img src="map.png"/>
+
+# China Map with D3.js and GeoJSON
 
 * These are the source files for [http://blog.econst.org/footprint](http://blog.econst.org/footprint).
 * The necessary data files are in the ./data folder.
